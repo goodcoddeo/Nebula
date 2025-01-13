@@ -1,0 +1,11 @@
+{
+    "$schema": "file:///D:/CustomLauncher/Nebula/schemas/DistroMetaSchema.schema.json",
+    "meta": {
+        "rss": "http://localhost:8080/news.xml",
+        "discord": {
+            "clientId": "1328210282509766749",
+            "smallImageText": "NOAIR 런처 실행 중",
+            "smallImageKey": "icon"
+        }
+    }
+  }

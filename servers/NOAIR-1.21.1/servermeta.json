@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/CustomLauncher/Nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "NOAIR (Minecraft 1.21)",
+    "description": "NOAIR Running Minecraft 1.21",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "noair.goodc.xyz:25565",
+    "discord": {
+      "shortId": "1328210282509766749",
+      "largeImageText": "1.21 게임 중",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.5"
+  },
+  "untrackedFiles": []
+}
